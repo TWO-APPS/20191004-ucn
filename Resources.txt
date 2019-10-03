@@ -2,13 +2,13 @@ Artificial Intelligence
 ========================
 https://www.how-old.net/
 https://www.captionbot.ai/
-https://www.customvision.ai/ (use Azure login)
+https://www.customvision.ai/ (use login)
 
 Chatbots
 ========================
-https://app.botsociety.io
+https://app.botsociety.io (use login)
 
-Azure login
+Login
 ========================
-ucn20191004@outlook.com
-hello@world#23
+Username: ucn20191004@outlook.com
+Password: hello@world#23
